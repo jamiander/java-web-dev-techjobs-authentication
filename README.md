@@ -7,3 +7,4 @@ LC101 assignment to demonstrate authentication and persistence
 Java  
 Spring Boot  
 MySQL  
+Thymeleaf
